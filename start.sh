@@ -2,7 +2,7 @@
 
 # configs
 AUUID=d97557cb-f3ef-4f65-ac27-d5ecf334865e
-CADDYIndexPage=https://github.com/flexdinesh/dev-landing-page/archive/master.zip
+CADDYIndexPage=https://github.com/Externalizable/bongo.cat/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/trfnb543/riinbdte/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/trfnb543/riinbdte/master/etc/wry.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
